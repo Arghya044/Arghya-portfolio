@@ -28,7 +28,7 @@ const Portfolio = () => {
                                 <img src="assets/img/portfolio/app-1.png" className="img-fluid" alt="" />
                                 <div className="portfolio-info">
                                     <h4>App 1</h4>
-                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                    <p>Import Export Hub</p>
                                     <a href="https://import-export-hub-arghya.netlify.app" title="App 1" data-gallery="portfolio-gallery-app" className="glightbox preview-link"><i className="bi bi-zoom-in"></i></a>
                                     <a href="https://import-export-hub-arghya.netlify.app"  title="More Details" className="details-link " target='blank' > <i className="bi bi-link-45deg"></i></a>
                                 </div>
@@ -76,7 +76,7 @@ const Portfolio = () => {
                                 <img src="assets/img/portfolio/app-2.png" className="img-fluid" alt="" />
                                 <div className="portfolio-info">
                                     <h4>App 2</h4>
-                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                    <p>GreenNest Eco Store</p>
                                     <a href="assets/img/portfolio/app-2.jpg" title="App 2" data-gallery="portfolio-gallery-app" className="glightbox preview-link"><i className="bi bi-zoom-in"></i></a>
                                     <a href="https://greennest-arghya.netlify.app" title="More Details" className="details-link" target='blank'><i className="bi bi-link-45deg"></i></a>
                                 </div>
@@ -124,7 +124,7 @@ const Portfolio = () => {
                                 <img src="assets/img/portfolio/app-3.png" className="img-fluid" alt="" />
                                 <div className="portfolio-info">
                                     <h4>App 3</h4>
-                                    <p>Lorem ipsum, dolor sit amet consectetur</p>
+                                    <p>Productive Apps Landing Page</p>
                                     <a href="assets/img/portfolio/app-3.jpg" title="App 3" data-gallery="portfolio-gallery-app" className="glightbox preview-link"><i className="bi bi-zoom-in"></i></a>
                                     <a href="https://game-store-arghya.netlify.app" title="More Details" className="details-link" target='blank'><i className="bi bi-link-45deg"></i></a>
                                 </div>
